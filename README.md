@@ -5,7 +5,7 @@ SoftwarePersona Yazılım Stajı — **Mobil Uygulama Geliştirme (Flutter)** pr
 Flutter ile geliştirilmiş, teknoloji ürünleri (kulaklık, telefon, giyilebilir teknoloji, ses sistemleri)
 satan bir mini katalog/e-ticaret vitrin uygulaması.
 
-## Canlı Demo (Bonus)
+## Canlı Demo 
 
 🔗 [kaleidoscopic-croquembouche-13d02b.netlify.app](https://kaleidoscopic-croquembouche-13d02b.netlify.app)
 
