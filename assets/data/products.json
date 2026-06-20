@@ -1,0 +1,258 @@
+[
+  {
+    "id": "aura-pro",
+    "name": "Aura Pro Kulaklık",
+    "brand": "Aura",
+    "category": "Kulaklık",
+    "price": 2499.0,
+    "description": "Aktif gürültü engelleme ve 40 saate kadar pil ömrü sunan premium kablosuz kulaklık. Uzun yolculuklar ve günlük kullanım için tasarlandı.",
+    "rating": 4.8,
+    "imageAsset": "assets/images/aura-pro.png",
+    "specs": {
+      "Pil Ömrü": "40 saat",
+      "Bağlantı": "Bluetooth 5.3",
+      "Ağırlık": "245 g",
+      "Gürültü Engelleme": "Aktif (ANC)"
+    }
+  },
+  {
+    "id": "echobuds-lite",
+    "name": "EchoBuds Lite",
+    "brand": "EchoBuds",
+    "category": "Kulaklık",
+    "price": 899.0,
+    "description": "Hafif ve kompakt kulak içi kulaklık. Spor ve günlük kullanım için ter ve suya dayanıklı tasarım.",
+    "rating": 4.3,
+    "imageAsset": "assets/images/echobuds-lite.png",
+    "specs": {
+      "Pil Ömrü": "18 saat (kutu ile)",
+      "Bağlantı": "Bluetooth 5.1",
+      "Su Direnci": "IPX4",
+      "Ağırlık": "4.2 g (tek kulaklık)"
+    }
+  },
+  {
+    "id": "soundmax-studio",
+    "name": "SoundMax Studio",
+    "brand": "SoundMax",
+    "category": "Kulaklık",
+    "price": 3299.0,
+    "description": "Stüdyo kalitesinde ses üreten, profesyonel müzisyenler için geliştirilmiş kapalı tip kulaklık.",
+    "rating": 4.9,
+    "imageAsset": "assets/images/soundmax-studio.png",
+    "specs": {
+      "Sürücü Tipi": "50mm Dinamik",
+      "Frekans Aralığı": "5Hz - 40kHz",
+      "Bağlantı": "Kablolu + Bluetooth 5.2",
+      "Ağırlık": "320 g"
+    }
+  },
+  {
+    "id": "cleartone-sport",
+    "name": "ClearTone Sport",
+    "brand": "ClearTone",
+    "category": "Kulaklık",
+    "price": 1199.0,
+    "description": "Spor yaparken kulakta sabit kalan, kemik iletimli teknolojiyle çevre seslerini duymanızı sağlayan kulaklık.",
+    "rating": 4.4,
+    "imageAsset": "assets/images/cleartone-sport.png",
+    "specs": {
+      "Teknoloji": "Kemik İletimi",
+      "Su Direnci": "IPX8",
+      "Pil Ömrü": "10 saat",
+      "Ağırlık": "29 g"
+    }
+  },
+  {
+    "id": "zenith-x12",
+    "name": "Zenith X12",
+    "brand": "Zenith",
+    "category": "Telefon",
+    "price": 24999.0,
+    "description": "Amiral gemisi performansı, gelişmiş üçlü kamera sistemi ve titanyum gövde ile Zenith serisinin en güçlüsü.",
+    "rating": 4.9,
+    "imageAsset": "assets/images/zenith-x12.png",
+    "specs": {
+      "Ekran": "6.7\" OLED 120Hz",
+      "RAM": "12 GB",
+      "Depolama": "256 GB",
+      "Batarya": "5000 mAh"
+    }
+  },
+  {
+    "id": "zenith-x12-mini",
+    "name": "Zenith X12 Mini",
+    "brand": "Zenith",
+    "category": "Telefon",
+    "price": 19999.0,
+    "description": "X12'nin tüm gücünü daha kompakt bir gövdede sunan, tek elle kullanım için ideal model.",
+    "rating": 4.7,
+    "imageAsset": "assets/images/zenith-x12-mini.png",
+    "specs": {
+      "Ekran": "6.1\" OLED 120Hz",
+      "RAM": "8 GB",
+      "Depolama": "128 GB",
+      "Batarya": "4200 mAh"
+    }
+  },
+  {
+    "id": "nova-edge-5g",
+    "name": "Nova Edge 5G",
+    "brand": "Nova",
+    "category": "Telefon",
+    "price": 15999.0,
+    "description": "5G hızıyla kesintisiz bağlantı sunan, uzun pil ömürlü ve hızlı şarj özellikli orta-üst segment telefon.",
+    "rating": 4.5,
+    "imageAsset": "assets/images/nova-edge-5g.png",
+    "specs": {
+      "Ekran": "6.5\" AMOLED 90Hz",
+      "RAM": "8 GB",
+      "Depolama": "128 GB",
+      "Batarya": "5500 mAh"
+    }
+  },
+  {
+    "id": "nova-edge-lite",
+    "name": "Nova Edge Lite",
+    "brand": "Nova",
+    "category": "Telefon",
+    "price": 9999.0,
+    "description": "Fiyat-performans odaklı, gündelik kullanım için yeterli donanıma sahip pratik bir akıllı telefon.",
+    "rating": 4.2,
+    "imageAsset": "assets/images/nova-edge-lite.png",
+    "specs": {
+      "Ekran": "6.4\" IPS 60Hz",
+      "RAM": "6 GB",
+      "Depolama": "128 GB",
+      "Batarya": "5000 mAh"
+    }
+  },
+  {
+    "id": "pulsefit-watch-3",
+    "name": "PulseFit Watch 3",
+    "brand": "PulseFit",
+    "category": "Giyilebilir Teknoloji",
+    "price": 4499.0,
+    "description": "Nabız, oksijen ve uyku takibi yapan, 100'den fazla spor moduna sahip akıllı saat.",
+    "rating": 4.6,
+    "imageAsset": "assets/images/pulsefit-watch-3.png",
+    "specs": {
+      "Ekran": "1.9\" AMOLED",
+      "Pil Ömrü": "7 gün",
+      "Su Direnci": "5 ATM",
+      "Sensörler": "Nabız, SpO2, GPS"
+    }
+  },
+  {
+    "id": "pulsefit-band",
+    "name": "PulseFit Band",
+    "brand": "PulseFit",
+    "category": "Giyilebilir Teknoloji",
+    "price": 1299.0,
+    "description": "Hafif ve ince tasarımlı, temel aktivite takibi için ekonomik akıllı bileklik.",
+    "rating": 4.1,
+    "imageAsset": "assets/images/pulsefit-band.png",
+    "specs": {
+      "Ekran": "1.1\" AMOLED",
+      "Pil Ömrü": "14 gün",
+      "Su Direnci": "IPX8",
+      "Sensörler": "Nabız, Adım Sayar"
+    }
+  },
+  {
+    "id": "orbitwatch-se",
+    "name": "OrbitWatch SE",
+    "brand": "Orbit",
+    "category": "Giyilebilir Teknoloji",
+    "price": 3299.0,
+    "description": "Şık tasarımı ve uzun pil ömrüyle hem günlük kullanım hem spor takibi için dengeli bir seçim.",
+    "rating": 4.4,
+    "imageAsset": "assets/images/orbitwatch-se.png",
+    "specs": {
+      "Ekran": "1.7\" LCD",
+      "Pil Ömrü": "10 gün",
+      "Su Direnci": "3 ATM",
+      "Sensörler": "Nabız, Adım Sayar"
+    }
+  },
+  {
+    "id": "orbitwatch-ultra",
+    "name": "OrbitWatch Ultra",
+    "brand": "Orbit",
+    "category": "Giyilebilir Teknoloji",
+    "price": 6999.0,
+    "description": "Dayanıklı titanyum kasa ve gelişmiş GPS özellikleriyle outdoor sporları için tasarlanan üst segment model.",
+    "rating": 4.8,
+    "imageAsset": "assets/images/orbitwatch-ultra.png",
+    "specs": {
+      "Ekran": "2.0\" AMOLED",
+      "Pil Ömrü": "14 gün",
+      "Su Direnci": "10 ATM",
+      "Sensörler": "Nabız, SpO2, Çift Frekans GPS"
+    }
+  },
+  {
+    "id": "boomcube-mini",
+    "name": "BoomCube Mini",
+    "brand": "BoomCube",
+    "category": "Ses Sistemleri",
+    "price": 1499.0,
+    "description": "Cebe sığan boyutuyla her yere taşınabilen, güçlü bas performansına sahip mini hoparlör.",
+    "rating": 4.3,
+    "imageAsset": "assets/images/boomcube-mini.png",
+    "specs": {
+      "Çıkış Gücü": "10W",
+      "Pil Ömrü": "12 saat",
+      "Su Direnci": "IPX7",
+      "Bağlantı": "Bluetooth 5.0"
+    }
+  },
+  {
+    "id": "boomcube-max",
+    "name": "BoomCube Max",
+    "brand": "BoomCube",
+    "category": "Ses Sistemleri",
+    "price": 3999.0,
+    "description": "Parti ve dış mekan etkinlikleri için güçlü ses çıkışı sunan büyük taşınabilir hoparlör.",
+    "rating": 4.6,
+    "imageAsset": "assets/images/boomcube-max.png",
+    "specs": {
+      "Çıkış Gücü": "60W",
+      "Pil Ömrü": "20 saat",
+      "Su Direnci": "IPX6",
+      "Bağlantı": "Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "homesound-bar",
+    "name": "HomeSound Bar",
+    "brand": "HomeSound",
+    "category": "Ses Sistemleri",
+    "price": 5499.0,
+    "description": "Ev sinema deneyimini zenginleştiren, sinematik ses sunan soundbar sistemi.",
+    "rating": 4.7,
+    "imageAsset": "assets/images/homesound-bar.png",
+    "specs": {
+      "Kanal": "3.1 Kanal",
+      "Çıkış Gücü": "240W",
+      "Bağlantı": "HDMI ARC, Bluetooth, Optik",
+      "Subwoofer": "Kablosuz"
+    }
+  },
+  {
+    "id": "homesound-compact",
+    "name": "HomeSound Compact",
+    "brand": "HomeSound",
+    "category": "Ses Sistemleri",
+    "price": 2799.0,
+    "description": "Küçük yaşam alanları için kompakt boyutlu ama dolgun sesli ev hoparlörü.",
+    "rating": 4.2,
+    "imageAsset": "assets/images/homesound-compact.png",
+    "specs": {
+      "Kanal": "2.0 Kanal",
+      "Çıkış Gücü": "80W",
+      "Bağlantı": "Bluetooth, AUX",
+      "Subwoofer": "Dahili"
+    }
+  }
+]
