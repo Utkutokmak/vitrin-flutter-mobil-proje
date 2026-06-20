@@ -5,6 +5,14 @@ SoftwarePersona Yazılım Stajı — **Mobil Uygulama Geliştirme (Flutter)** pr
 Flutter ile geliştirilmiş, teknoloji ürünleri (kulaklık, telefon, giyilebilir teknoloji, ses sistemleri)
 satan bir mini katalog/e-ticaret vitrin uygulaması.
 
+## Canlı Demo (Bonus)
+
+🔗 [kaleidoscopic-croquembouche-13d02b.netlify.app](https://kaleidoscopic-croquembouche-13d02b.netlify.app)
+
+> Not: Yönerge bir web demosu istemez (sadece GitHub + ekran görüntüsü), bu link bonus olarak
+> `flutter build web` ile aynı koddan üretilmiştir. İlk açılışta yüksek çözünürlüklü görsellerin
+> (1600×1600) CanvasKit tarafından çözümlenmesi birkaç saniye sürebilir — bu normaldir.
+
 ## Kısa Açıklama
 
 Vitrin; ürünleri kategoriye göre filtreleyip arayabildiğiniz, bir ürünün detayına girip teknik
